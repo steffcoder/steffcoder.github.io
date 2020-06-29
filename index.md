@@ -6,3 +6,4 @@ Paulchen ist ein rosa Panter der die Welt auf seine eigene Weise versteht und mi
 * Paulchen
 * männlich
 > Heute ist nicht alle Tage ich komm wieder keine Frage
+<img src="https://upload.wikimedia.org/wikipedia/en/9/96/Pink_Panther.png">
