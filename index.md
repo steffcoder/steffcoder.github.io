@@ -5,3 +5,4 @@ Paulchen ist ein rosa Panter der die Welt auf seine eigene Weise versteht und mi
 * rosa
 * Paulchen
 * männlich
+> Heute ist nicht alle Tage ich komm wieder keine Frage
